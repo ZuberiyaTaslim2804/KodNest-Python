@@ -13,5 +13,5 @@ first_num=int(input())
 second_num=int(input())
 operator=input().strip()
 
-result=calculate(first_num,second_num,operator)
+result=calculator(first_num,second_num,operator)
 print(result)
