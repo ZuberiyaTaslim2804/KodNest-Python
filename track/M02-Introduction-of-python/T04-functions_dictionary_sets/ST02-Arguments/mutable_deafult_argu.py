@@ -19,6 +19,6 @@ def add_task(task,tasks=None):
     tasks.append(task)
     return task
 
-print("Deafult argument -None")
+print("Using Deafult argument -None")
 print(add_task("Learn Python"))
 print(add_task("Paractice Functions"))
